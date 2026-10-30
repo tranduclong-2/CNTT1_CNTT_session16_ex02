@@ -19,10 +19,12 @@ Google Docs Editors Help+1
 - Mở Google Drive → chọn file → Share.
 - Xóa quyền truy cập của ứng viên.
 - Chuyển General access về Restricted.
+
 **Bước 2:** Kiểm tra lịch sử truy cập
 - Nhờ quản trị viên kiểm tra Google Workspace Drive Audit Log.
 - Kiểm tra các hoạt động như xem, tải xuống hoặc sao chép file.
 - Ghi nhận thời gian và tài khoản đã truy cập.
+
 **Bước 3:** Xử lý hậu quả
 - Thông báo sự cố cho trưởng phòng nhân sự.
 - Yêu cầu ứng viên xóa dữ liệu đã nhận (nếu có).
